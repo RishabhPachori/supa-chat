@@ -1,0 +1,27 @@
+{
+  "version": "0.2",
+  "ignorePaths": [],
+  "dictionaryDefinitions": [],
+  "dictionaries": [],
+  "words": [
+    "autosize",
+    "github",
+    "linebreak",
+    "mantine",
+    "Mantine",
+    "nextjs",
+    "nprogress",
+    "nwtgck",
+    "openai",
+    "Signout",
+    "signup",
+    "Supa",
+    "supabase",
+    "tabler",
+    "tldr",
+    "upsert",
+    "zustand"
+  ],
+  "ignoreWords": [],
+  "import": []
+}
